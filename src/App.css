@@ -51,3 +51,7 @@
   max-width: 300px;
   margin: auto;
 }
+
+.navbar-brand {
+  margin-left: 10px;
+}
